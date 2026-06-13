@@ -1,16 +1,15 @@
-## Hi there 👋
+Soy Martin, desarrollador backend con Node.js y Python. Me gusta construir APIs, trabajar con bases de datos y aprender cosas nuevas todos los días.
 
-<!--
-**martinz10one/martinz10one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌱 **Aprendiendo:** FastAPI, Docker, más backend  
+👨‍💻 **Portafolio:** https://martinz10one.github.io/portafolio  
+📫 **Contacto:** martinnnzapata7@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías
+
+**Backend:** Node.js, Express, Python, FastAPI  
+**Frontend:** React, HTML, CSS, JavaScript  
+**BD:** PostgreSQL, MongoDB, Redis  
+**Herramientas:** Docker, Git, Linux  
+
+
