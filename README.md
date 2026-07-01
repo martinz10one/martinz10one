@@ -2,7 +2,7 @@ Soy Martin, desarrollador backend con Node.js y Python. Me gusta construir APIs,
 
 
 🌱 **Aprendiendo:** FastAPI, Docker, más backend  
-👨‍💻 **Portafolio:** portafolio-coral-eta-27.vercel.app 
+👨‍💻 **Portafolio:** https://portafolio-coral-eta-27.vercel.app/
 📫 **Contacto:** martinnnzapata7@gmail.com  
 
 ### 🛠️ Tecnologías
