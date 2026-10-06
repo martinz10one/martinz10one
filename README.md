@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Front+End+Developer;React+%7C+TypeScript+%7C+Tailwind+CSS;Código+limpio+siempre" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Front+End+Focus+%C2%B7+React+%7C+TypeScript;Backend+con+Node.js;Código+limpio+siempre" alt="Typing SVG" />
 </div>
 
 ---
 
-Soy **Martin**, desarrollador con perfil front end. Construyo interfaces con React, TypeScript y Tailwind CSS, y participé en la migración de un sistema legado ASP.NET WebForms a una plataforma moderna en Node.js, Express, MongoDB y React.
+Soy **Martin**, desarrollador full stack con énfasis en front end. Construyo interfaces con React, TypeScript y Tailwind CSS, desarrollo el backend con Node.js, Express y MongoDB, y lideré la migración de un sistema legado ASP.NET WebForms a un sistema de gestión educativa con 7 perfiles de usuario y más de 40 pantallas.
 
 🔭 **Proyecto actual:** [Ecommerce Monitor](https://ecommerce-monitor.onrender.com) — Monitoreo de cambios de precios en e-commerce  
 🌱 **Aprendiendo:** FastAPI, Docker  
@@ -13,7 +13,7 @@ Soy **Martin**, desarrollador con perfil front end. Construyo interfaces con Rea
 
 ### 🛠️ Tecnologías
 
-**Frontend:** React, TypeScript, Next.js, HTML/CSS, Tailwind CSS  
+**Frontend (énfasis):** React, TypeScript, Next.js, HTML/CSS, Tailwind CSS  
 **Backend:** Node.js, Express, Python, FastAPI  
 **Bases de datos:** MongoDB, PostgreSQL, Redis  
 **Herramientas:** Git, Linux, Docker, Vercel  
