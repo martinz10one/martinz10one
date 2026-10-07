@@ -15,7 +15,7 @@ Soy **Martin**, desarrollador full stack con énfasis en front end. Construyo in
 
 **Frontend (énfasis):** React, TypeScript, Next.js, HTML/CSS, Tailwind CSS  
 **Backend:** Node.js, Express, Python, FastAPI  
-**Bases de datos:** MongoDB, PostgreSQL, Redis  
+**Bases de datos:** MongoDB,MySQL
 **Herramientas:** Git, Linux, Docker, Vercel  
 
 ### 📌 Proyectos destacados
